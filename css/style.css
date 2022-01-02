@@ -50,6 +50,16 @@ body{
 	box-shadow: red 0px 0px 40px;
 }
 
+::-webkit-scrollbar {
+    width: 5px;
+}
+  
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 1px;
+    background: red; 
+    -webkit-box-shadow: inset 1px 0px 1px rgb(0, 0, 0); 
+}
+
 @media screen and (max-width:1000px) {
 	#box{
 		margin: 0%;
