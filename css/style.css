@@ -63,15 +63,16 @@ body{
 @media screen and (max-width:1000px) {
 	#box{
 		margin: 0%;
-	    padding: 0%;
+	        padding: 0%;
 		padding-top: 5%;
-	    padding-bottom: 50%;
+	        padding-bottom: 50%;
 	}
 
 	#btn{
 		width: 45%;
 		margin-top: 8%;
 		text-align: center;
+                font-size: 30px;
 	}
 	#icon{
 		width: 25%;
